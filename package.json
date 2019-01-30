@@ -1,0 +1,15 @@
+{
+  "name": "mysh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Karganyan",
+  "license": "ISC",
+  "dependencies": {
+    "node-key-sender": "^1.0.10",
+    "terminal-kit": "^1.26.1"
+  }
+}
